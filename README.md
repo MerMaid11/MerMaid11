@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @theorangecodess
+- 👋 Hi, I’m @MerMaid11 
 - 👀 I’m interested in frontend development and security
 - 🌱 I’m currently re-learning typescript
 - 💞️ I’m looking to collaborate on frontend libraries
